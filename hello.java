@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 // init 120 changes
 
 hello () {
@@ -6,3 +7,10 @@ hello () {
  }
 
 }
+
+// task 101 changes
+
+hello {
+ x=10
+ y=20
+ }
